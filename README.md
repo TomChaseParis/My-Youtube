@@ -23,12 +23,19 @@
 ### Navbar.jsx
 ### Feed.jsx
 ### VideoDetail.jsx
+### ChannelCard
 ### ChannelDetail.jsx
-### SearchFeed.jsx
+### SearchFeed.jsxar
+### Searchbar
+### Sidebar.jsx
+### VideoCard.jsx
+### Videos.jsx
 
-## Creation of others folders
- 
- ### constants.js inside utils.js
+### Calling API with Axios in fetchGFromAPI
+
+
+
+
 
 
 
