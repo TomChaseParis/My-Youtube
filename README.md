@@ -18,7 +18,7 @@
 ### "axios": "^0.27.2"
 ### "react-router-dom": "^6.3.0"
 
-## Creation of components 
+## Creation of components & Calling API with Axios in fetchGFromAPI
 
 ### Navbar.jsx
 ### Feed.jsx
@@ -31,7 +31,7 @@
 ### VideoCard.jsx
 ### Videos.jsx
 
-### Calling API with Axios in fetchGFromAPI
+
 
 
 
